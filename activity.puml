@@ -3,7 +3,7 @@ skinparam shadowing false
 skinparam ConditionEndStyle hline
 
 skinparam Note {
-    FontName STKaiTi
+    ' FontName STKaiTi
     ' FontSize 12
     BackgroundColor #FFDE61
     BorderColor #886F11
@@ -11,7 +11,7 @@ skinparam Note {
 skinparam Arrow {
     Color #126912
     Thickness 1
-    FontName STKaiTi
+    ' FontName STKaiTi
     ' FontSize 12
 }
 
@@ -23,17 +23,17 @@ skinparam activity {
     BackgroundColor white
     BorderColor black
     BorderThickness 1
-    FontName STXinwei
+    ' FontName STXinwei
     ' FontSize 18
 
     DiamondBackgroundColor #F3B976
     DiamondBorderColor #9E6626
     DiamondFontColor black
-    DiamondFontName STXinwei
+    ' DiamondFontName STXinwei
     ' DiamondFontSize 12
 }
 
 skinparam Partition {
-    FontName SimHei
+    ' FontName SimHei
     ' FontSize 12
 }
