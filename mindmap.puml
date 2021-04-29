@@ -9,9 +9,9 @@
         LineStyle 0.0
         Shadowing 0.0
         RoundCorner 12
-        MaximumWidth 200
+        MaximumWidth 1200
         FontColor Black
-        FontName STXinWei
+        ' FontName STXinWei
         FontSize 14
     }
     .depth(0){
@@ -19,14 +19,14 @@
         BackgroundColor #732020
         LineColor #732020
         FontColor White
-        FontName STHei
+        ' FontName STHei
         FontSize 19
     }
     .depth(1){
         BackgroundColor #F8D3C8
         LineColor 	#732020
         FontColor Black
-        FontName STKaiTi
+        ' FontName STKaiTi
         FontSize 16
     }
     .depth(2){
