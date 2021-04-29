@@ -23,7 +23,7 @@ skinparam activity {
     BackgroundColor white
     BorderColor black
     BorderThickness 1
-    ' FontName STXinwei
+    FontName STXinwei
     ' FontSize 18
 
     DiamondBackgroundColor #F3B976
