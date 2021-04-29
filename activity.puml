@@ -1,0 +1,39 @@
+' skinparam dpi 900
+skinparam shadowing false
+skinparam ConditionEndStyle hline
+
+skinparam Note {
+    FontName STKaiTi
+    ' FontSize 12
+    BackgroundColor #FFDE61
+    BorderColor #886F11
+}
+skinparam Arrow {
+    Color #126912
+    Thickness 1
+    FontName STKaiTi
+    ' FontSize 12
+}
+
+skinparam activity {
+    StartColor Green
+    EndColor Red
+    ' 并行框的颜色
+    ' BarColor darkgreen
+    BackgroundColor white
+    BorderColor black
+    BorderThickness 1
+    FontName STXinwei
+    ' FontSize 18
+
+    DiamondBackgroundColor #F3B976
+    DiamondBorderColor #9E6626
+    DiamondFontColor black
+    DiamondFontName STXinwei
+    ' DiamondFontSize 12
+}
+
+skinparam Partition {
+    FontName SimHei
+    ' FontSize 12
+}
