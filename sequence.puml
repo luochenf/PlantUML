@@ -3,7 +3,7 @@ skinparam shadowing true
 skinparam RoundCorner 8
 
 skinparam Note {
-    FontName STKaiTi
+    ' FontName STKaiTi
     ' FontSize 12
     BackgroundColor #FFDE61
     BorderColor #886F11
@@ -11,13 +11,13 @@ skinparam Note {
 skinparam Arrow {
     Color #126912
     Thickness 1
-    FontName STKaiTi
+    ' FontName STKaiTi
     ' FontSize 12
 }
 skinparam Database {
     BackgroundColor #white
     BorderColor #871000
-    FontName Comic Sans MS
+    ' FontName Comic Sans MS
 }
 
 skinparam sequence {
@@ -26,15 +26,15 @@ skinparam sequence {
     ' 渐变色 A/B 左上到右下 A|B 左到右
     ParticipantBorderColor black
     ParticipantBackgroundColor #871000/#E87768
-    ParticipantFontName Comic Sans MS
+    ' ParticipantFontName Comic Sans MS
     ' ParticipantFontSize 16
     ParticipantFontColor white
     ActorBorderColor #871000
     ActorBackgroundColor #E84E3A
-    ActorFontName Comic Sans MS
+    ' ActorFontName Comic Sans MS
 
     GroupBorderColor black
     GroupBackgroundColor white
-    GroupFontName STKaiTi
-    FontName STXinWei
+    ' GroupFontName STKaiTi
+    ' FontName STXinWei
 }
