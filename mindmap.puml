@@ -11,7 +11,7 @@
         RoundCorner 12
         MaximumWidth 1200
         FontColor Black
-        FontName Arial
+        FontName SimSun
         FontSize 14
     }
     .depth(0){
