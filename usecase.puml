@@ -1,0 +1,43 @@
+' skinparam dpi 300
+skinparam shadowing true
+skinparam RoundCorner 8
+
+skinparam Note {
+    FontName STKaiTi
+    ' FontSize 12
+    BackgroundColor #FFDE61
+    BorderColor #886F11
+}
+skinparam Arrow {
+    Color #F91F02
+    Thickness 1
+    FontName STKaiTi
+    ' FontSize 12
+}
+
+' 角色形状Awesome / Hollow
+skinparam actor{
+    Style awesome
+    BackgroundColor #176745
+    BorderColor #FFF379
+    FontName STXinWei
+    FontColor #CA1F08
+    shadowing false
+}
+
+skinparam usecase {
+    BackgroundColor white
+    BorderColor #120250
+    FontName STXinWei
+}
+
+skinparam Package {
+    FontName STKaiTi
+    ' FontSize 12
+    BorderColor black
+}
+skinparam Rectangle {
+    FontName STKaiTi
+    ' FontSize 12
+    BorderColor black
+}

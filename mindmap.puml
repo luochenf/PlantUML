@@ -1,0 +1,41 @@
+' skinparam dpi 300
+<style>
+    .node{
+        Padding 9
+        Margin 10
+        BackgroundColor white
+        LineColor black
+        LineThickness 1.0
+        LineStyle 0.0
+        Shadowing 0.0
+        RoundCorner 12
+        MaximumWidth 200
+        FontColor Black
+        FontName STXinWei
+        FontSize 14
+    }
+    .depth(0){
+        HorizontalAlignment center
+        BackgroundColor #732020
+        LineColor #732020
+        FontColor White
+        FontName STHei
+        FontSize 19
+    }
+    .depth(1){
+        BackgroundColor #F8D3C8
+        LineColor 	#732020
+        FontColor Black
+        FontName STKaiTi
+        FontSize 16
+    }
+    .depth(2){
+        LineColor black
+    }
+    .depth(3){
+        LineColor black
+    }
+    .gfred {
+        FontColor #F91F02
+  }
+</style>
